@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome on PogU's website
 
-You can use the [editor on GitHub](https://github.com/Spoozy/PogUDiscordBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What is PogU? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PogU is a Discord bot made possible by Node.js and Discord's library called Discord.js. It can do anything you want it to do as it is open-source, but the bot comes pre-included with a bunch of useful commands.
 
 ### Markdown
 
